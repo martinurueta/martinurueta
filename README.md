@@ -8,3 +8,12 @@ I'm **Martin Urueta III** (he/him). I'm a Front-End Software Engineer by passion
 
 * 🔗 I have a personal website at [https://muruetaiii.com](https://muruetaiii.com) where all my social networks are located! You can reach me anywhere over there!
 * 📹 Email: [uruetaiiimartin@gmail.com](mailto:uruetaiiimartin@gmail.com)
+
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinurueta&hide=java,html,css&theme=radical)](https://github.com/martinurueta/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinurueta&theme=radical)](https://github.com/martinurueta/github-readme-stats)
